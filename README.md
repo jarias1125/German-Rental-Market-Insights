@@ -82,8 +82,6 @@ The dataset consists of rental listings from **Immoscout24**, containing:
 -  **modeling.ipynb** – Machine learning models for price prediction and clustering.
 -  **Principles_and_Elementary_Models_Report.pdf** – Detailed documentation of methods and findings.
 -  **Abstract** - Summary on the project and insights found.
--  **cleaned_dataset.csv** - The cleaned dataset used for modeling.
--  **immo_data.csv** – The full dataset before applyin cleaning.
 
 ---
 
